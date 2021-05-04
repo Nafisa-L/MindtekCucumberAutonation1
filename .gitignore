@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+#IntellIJ Configuration folders and files
+/.idea
+MindtekCucumberAutonation1.iml

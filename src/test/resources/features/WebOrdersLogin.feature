@@ -1,4 +1,4 @@
-@HR-7
+@HR-7 @ui
 Feature: Validating Login functionality
   @smoke
   Scenario: Validating login functionality with valid credentials
